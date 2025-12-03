@@ -1,0 +1,128 @@
+$date
+	Thu Nov 20 23:28:38 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb_orthosis $end
+$var wire 1 ! Vib $end
+$var wire 1 " Servo $end
+$var wire 1 # Pump $end
+$var wire 1 $ LED $end
+$var wire 1 % Heat $end
+$var wire 1 & EMS $end
+$var reg 1 ' Accel $end
+$var reg 1 ( EMG $end
+$var reg 1 ) FSR $end
+$var reg 1 * Flex $end
+$var reg 1 + IMU $end
+$var reg 1 , PPG $end
+$var reg 1 - clk $end
+$var reg 1 . reset $end
+$scope module uut $end
+$var wire 1 ' Accel $end
+$var wire 1 ( EMG $end
+$var wire 1 ) FSR $end
+$var wire 1 * Flex $end
+$var wire 1 + IMU $end
+$var wire 1 , PPG $end
+$var wire 1 - clk $end
+$var wire 1 . reset $end
+$var reg 1 & EMS $end
+$var reg 1 % Heat $end
+$var reg 1 $ LED $end
+$var reg 1 # Pump $end
+$var reg 1 " Servo $end
+$var reg 1 ! Vib $end
+$var reg 3 / sensor_count [2:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 /
+1.
+0-
+0,
+0+
+0*
+0)
+0(
+0'
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#5
+1-
+#10
+0-
+0.
+#15
+1-
+#20
+0-
+#25
+1-
+#30
+0-
+#35
+1-
+#40
+b11 /
+0-
+1)
+1'
+1+
+#45
+1&
+1#
+1"
+1$
+1!
+1-
+#50
+0-
+#55
+1&
+1$
+1#
+1!
+1"
+1-
+#60
+b101 /
+0-
+1,
+1*
+1(
+#65
+1%
+0&
+1$
+0#
+1!
+0"
+1-
+#70
+0-
+#75
+1%
+1$
+1!
+1-
+#80
+0-
+#85
+1%
+1$
+1!
+1-
+#90
+0-
