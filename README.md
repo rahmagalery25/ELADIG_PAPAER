@@ -3,4 +3,4 @@ Paper Rahma Putra Prasetya NRP 2042241123 dengan judul "Wearable Smart Orthosis 
 
 #SIMULASI HDL
 Masuk ke file Orthosis_HDL
-cd C:\Orthosis_HDL
+'cd C:\Orthosis_HDL'
